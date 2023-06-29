@@ -16,4 +16,5 @@ dia_3_machine_learning : este dia vimos el modelo predictivo prophet para realiz
 Filtramos el dataframe para quedarnos solo las columnas "Date" y "Open"
 Crear la gráfica del precio de apertura
 imprtamos la libreria folium es una potente libería de Python que permite crear diferentes tipos de mapas utilizando la librería de javascrip Leaflet.
+vimos introduccion a machine_learning
 -------------------
