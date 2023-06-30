@@ -17,4 +17,11 @@ Filtramos el dataframe para quedarnos solo las columnas "Date" y "Open"
 Crear la gráfica del precio de apertura
 imprtamos la libreria folium es una potente libería de Python que permite crear diferentes tipos de mapas utilizando la librería de javascrip Leaflet.
 vimos introduccion a machine_learning
--------------------
+-----------------------------------------------------------------------------------
+Análisis de las ubicaciones de los sitios de lanzamiento con Folium 
+maracar los sitios de lanzamiento
+marcar el papa del lansamiento exitosos/fracasadosde cada sitio
+calculamos distancias
+importamos pandas
+instalamos folium
+importamos divicon, mouseposition,markercluster
